@@ -1,2 +1,0 @@
-# OSS
-Online Shopping Service
